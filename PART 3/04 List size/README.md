@@ -1,0 +1,1 @@
+In the exercise template is a program that reads input from the user. Modify its working so that when the program quits reading, the program prints the number of values on the list.

@@ -1,0 +1,1 @@
+The class `SumOfArray` has a method `public static int sumOfNumbersInArray(int[] array)`. Complete the method so that it computes and returns the sum of the numbers in the array it receives as parameter.
